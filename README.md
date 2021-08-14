@@ -20,3 +20,10 @@
 ### Моя статистика: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enefe)](https://github.com/enefe/github-readme-stats)
+
+### Мои контакты:
+
+- Telegram: @enefe815
+- VK: enefe
+- Instagram: e.nefe
+- Email: enefe815@yandex.ru
